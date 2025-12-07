@@ -1,5 +1,5 @@
 ---
 title: "Xanthe"
-photo: "../../../public/xanthe.jpg"
+photo: "/xanthe.jpg"
 website: "https://xanthefurkert.com"
 ---

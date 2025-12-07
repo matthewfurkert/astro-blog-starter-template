@@ -1,5 +1,5 @@
 ---
 title: "Aidan"
-photo: "../../../public/aidan.jpg"
+photo: "/aidan.jpg"
 website: "https://aidanfurkert.com"
 ---

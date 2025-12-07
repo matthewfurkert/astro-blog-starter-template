@@ -1,5 +1,5 @@
 ---
 title: "Tracey"
-photo: "../../../public/tracey.jpg"
+photo: "/tracey.jpg"
 website: "https://traceyfurkert.com"
 ---

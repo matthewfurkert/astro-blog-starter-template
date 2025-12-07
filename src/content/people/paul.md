@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-photo: "../../../public/paul.jpg"
+photo: "/paul.jpg"
 website: "https://paulfurkert.com"
 ---

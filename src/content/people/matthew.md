@@ -1,5 +1,5 @@
 ---
 title: "Matthew"
-photo: "../../../public/matthew.jpg"
+photo: "/matthew.jpg"
 website: "https://matthewfurkert.com"
 ---
